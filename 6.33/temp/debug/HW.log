@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(498,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Source.c
+D:\課程\程式語言\HW\ch5\110360249_楊尚諭\6.33\source\Source.c(37,29): warning C4018: '<': signed/unsigned 不相符
+D:\課程\程式語言\HW\ch5\110360249_楊尚諭\6.33\source\Source.c(39,29): warning C4018: '<=': signed/unsigned 不相符
+D:\課程\程式語言\HW\ch5\110360249_楊尚諭\6.33\source\Source.c(44,23): warning C4018: '<': signed/unsigned 不相符
+  HW.vcxproj -> D:\課程\程式語言\HW\ch5\110360249_楊尚諭\6.33\temp\debug\HW.exe
